@@ -1,16 +1,27 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Student Card Component
+## Project Description
+This is a simple Student Card Component built using React.  
+It displays student information in a clean UI format.
+## Technologies Used
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
+## Project Structure
+- src/App.jsx – Main component (Student Card UI)
+- src/main.jsx – Entry point
+- src/index.css – Styling
+- index.html – Root HTML file
+- package.json – Dependencies and scripts
+## Features
+- Simple Student Card UI
+- Responsive design
+- Built using React components
+## How to Run Project
+### 1. Install dependencies
+npm install
+### 2. Start development server
+npm run dev
+## Note
+This is a beginner-level React project created for learning purpose.
